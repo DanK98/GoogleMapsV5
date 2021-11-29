@@ -7,3 +7,4 @@ Second Application of two part project
 
 This application displays potential risk levels of given routes using risk management techniques (see comments in source code)
 
+Data collection part of project: https://github.com/DanK98/CrimeAvoidanceStartApp
